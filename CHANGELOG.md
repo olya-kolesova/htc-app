@@ -8,3 +8,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.0.1] - 2022-04-15
 ### Added
 - Created project template.
+- Added Checkstyle with Google rules.
+
